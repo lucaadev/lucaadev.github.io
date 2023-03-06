@@ -1700,7 +1700,7 @@ input::-moz-focus-inner {
 }
 
 .s-header.sticky .header-nav a {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.9);
 }
 
 .s-header.sticky.scrolling {
@@ -1763,12 +1763,12 @@ input::-moz-focus-inner {
 }
 
 .header-nav a {
-  color: rgba(255, 255, 255, 0.4);
+  color: rgba(255, 255, 255, 0.8);
 }
 
 .header-nav a:hover,
 .header-nav a:focus {
-  color: #ffffff !important;
+  color: #705a50 !important;
 }
 
 .header-nav li {
@@ -1878,7 +1878,7 @@ input::-moz-focus-inner {
   transform: translate3d(0, -50%, 0);
   position: absolute;
   top: 50%;
-  right: 15%;
+  right: 5%;
 }
 
 .header-content .btn:hover,
