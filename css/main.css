@@ -1726,7 +1726,7 @@ input::-moz-focus-inner {
   -webkit-transform: translate3d(0, -50%, 0);
   transform: translate3d(0, -50%, 0);
   position: absolute;
-  left: 8rem;
+  left: 6rem;
   top: 50%;
 }
 
@@ -1759,7 +1759,7 @@ input::-moz-focus-inner {
   line-height: 6rem;
   padding-top: 1.4rem;
   padding-bottom: 1.4rem;
-  margin: 0;
+  margin-right: 10px;
 }
 
 .header-nav a {
@@ -2076,7 +2076,7 @@ input::-moz-focus-inner {
   max-width: 1400px;
   -ms-flex-align: end;
   -webkit-box-align: end;
-  align-items: flex-end;
+  align-items: center;
   padding-top: 20vh;
   padding-bottom: 14vh;
   position: relative;
